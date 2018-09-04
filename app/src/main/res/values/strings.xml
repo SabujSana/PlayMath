@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlayMath</string>
+    <string name="click">Click</string>
+    <string name="wrong">Wrong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

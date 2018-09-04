@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sabuj.playmath" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ChapterMenu">  </activity>
+        <activity android:name=".LocationSelection">  </activity>
+        <activity android:name=".VillageCategory">  </activity>
+        <activity android:name=".CityCategory">  </activity>
+        <activity android:name=".TulonaFootball">  </activity>
+        <activity android:name=".TulonaGlass">  </activity>
+        <activity android:name=".TulonaCat">  </activity>
+        <activity android:name=".TulonaWatch">  </activity>
+        <activity android:name=".TulonaApple">  </activity>
+        <activity android:name=".TulonaConeIceCream">  </activity>
+        <activity android:name=".TulonaCricketBall">  </activity>
+        <activity android:name=".JogFootbal">  </activity>
+        <activity android:name=".JogGlass">  </activity>
+        <activity android:name=".JogCat">  </activity>
+        <activity android:name=".JogWatch">  </activity>
+        <activity android:name=".JogApple">  </activity>
+        <activity android:name=".JogCone">  </activity>
+        <activity android:name=".JogCricketball">  </activity>
+        <activity android:name=".JogCar">  </activity>
+        <activity android:name=".GononaVillage"></activity>
+        <activity android:name=".GononaCity"></activity>
+        <activity android:name=".GononaVillageView"></activity>
+        <activity android:name=".GononaCityView"></activity>
+        <activity android:name=".BdCoinNote"></activity>
+
+
+
+
+        <activity android:name=".TulonaKomBesi">  </activity>
+        <activity android:name=".TulonaChotoBoro">  </activity>
+        <activity android:name=".TulonakhaliVorti">  </activity>
+        <activity android:name=".TulonaHalkaVari">  </activity>
+        <activity android:name=".TulonaLombaKhato">  </activity>
+        <activity android:name=".NijaKori">  </activity>
+        <activity android:name=".OngkaShikhiTwentyTwo"></activity>
+        <activity android:name=".OngkaShikhiFortiSix"></activity>
+        <activity android:name=".OngkaShikhiSitris"></activity>
+        <activity android:name=".OngkaShikhiThirtyThree"></activity>
+        <activity android:name=".OngkaShikhiThirtyNine"></activity>
+
+        <activity android:name=".JogOne"></activity>
+        <activity android:name=".JogTwo"></activity>
+        <activity android:name=".JogThree"></activity>
+        <activity android:name=".JogFour"></activity>
+        <activity android:name=".JogFive"></activity>
+
+
+    </application>
+
+</manifest>
